@@ -14,6 +14,7 @@ void solve(){
 	kmdfgignkb
 	gmdkghigdfdndf
 	mkrgirgj
+	kjgi
 }
 int main() {
   fast;
