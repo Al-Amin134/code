@@ -11,7 +11,9 @@ using namespace std;
 #define debug(x) cout<<#x<<" "<<x<<nl;
 const ll sz=2e5+7,Inf=1e9+7;
 void solve(){
-	
+	kmdfgignkb
+	gmdkghigdfdndf
+	mkrgirgj
 }
 int main() {
   fast;
